@@ -78,6 +78,7 @@ Then configure the rules you want to use under the rules section.
 * [mithril/jsx-sort-default-props](docs/rules/jsx-sort-default-props.md): Enforce default props alphabetical sorting
 * [mithril/jsx-sort-props](docs/rules/jsx-sort-props.md): Enforce props alphabetical sorting (fixable)
 * [mithril/jsx-tag-spacing](docs/rules/jsx-tag-spacing.md): Validate whitespace in and around the JSX opening and closing brackets (fixable)
+* [mithril/jsx-uses-mithril](docs/rules/jsx-uses-mithril.md): Prevent Mithril to be incorrectly marked as unused
 * [mithril/jsx-uses-vars](docs/rules/jsx-uses-vars.md): Prevent variables used in JSX to be incorrectly marked as unused
 * [mithril/jsx-wrap-multilines](docs/rules/jsx-wrap-multilines.md): Prevent missing parentheses around multilines JSX (fixable)
 
@@ -109,6 +110,7 @@ The rules enabled in this configuration are:
 * [mithril/jsx-no-duplicate-props](docs/rules/jsx-no-duplicate-props.md): Prevent duplicate props in JSX
 * [mithril/jsx-no-target-blank](docs/rules/jsx-no-target-blank.md): Prevent usage of unsafe `target='_blank'`
 * [mithril/jsx-no-undef](docs/rules/jsx-no-undef.md): Disallow undeclared variables in JSX
+* [mithril/jsx-uses-mithril](docs/rules/jsx-uses-mithril.md): Prevent Mithril to be incorrectly marked as unused
 * [mithril/jsx-uses-vars](docs/rules/jsx-uses-vars.md): Prevent variables used in JSX to be incorrectly marked as unused
 
 
